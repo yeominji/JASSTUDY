@@ -44,5 +44,8 @@
 	
 	
 	<modules>
+	<module>heekyoung</module>
+	<module>minji</module>
+	<module>eunji</module>
 	</modules>
 </project>
